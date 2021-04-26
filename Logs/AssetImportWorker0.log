@@ -1,0 +1,514 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2021.1.0a4 (7d39c812e75a) revision 8206792'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'zh' Physical Memory: 8042 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0a4\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Oliver/Desktop/unity/Unity3D-Python-Communication-master/UIdesign
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+13748
+Successfully changed project path to: C:/Users/Oliver/Desktop/unity/Unity3D-Python-Communication-master/UIdesign
+C:/Users/Oliver/Desktop/unity/Unity3D-Python-Communication-master/UIdesign
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a4 (7d39c812e75a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0a4/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Oliver/Desktop/unity/Unity3D-Python-Communication-master/UIdesign/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0a4/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0a4/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0a4/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56548
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0a4/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006163 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.120 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001984 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.5 MB.
+System memory in use after: 191.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 2.418700 ms (FindLiveObjects: 0.379100 ms CreateObjectMapping: 0.057000 ms MarkObjects: 1.922400 ms  DeleteObjects: 0.058900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0da26cf752620136c70666330fb6897') in 0.045416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.346082 seconds.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707852db1b3ee1ae2bed1d7769a61a6c') in 0.005033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.193825 seconds.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65a4d0fe1545f8b48e39053de98fafb') in 0.006207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.503904 seconds.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0525f5a458e8902e30e913f64d7da2fd') in 0.005494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.569386 seconds.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb59ad75e198356111fd1bdd525deca') in 0.006146 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001146 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.6 MB.
+System memory in use after: 191.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.734600 ms (FindLiveObjects: 0.308200 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.348900 ms  DeleteObjects: 0.030600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.075893 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7baff3655bed6f38bcc0a84b3d97f118') in 0.017340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.639772 seconds.
+  path: Assets/Scenes/Start.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2bc8fd222892add8367fa64029697c') in 0.013883 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001248 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.7 MB.
+System memory in use after: 191.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 2.302300 ms (FindLiveObjects: 0.383900 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.846600 ms  DeleteObjects: 0.039800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.144970 seconds.
+  path: Assets/Scripts/UIFramework/StartManager.cs
+  artifactKey: Guid(deaae740285a2e44d9425a79d5ba2315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/StartManager.cs using Guid(deaae740285a2e44d9425a79d5ba2315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33513429a702d31b0e264713626dc53') in 0.009180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023836 seconds.
+  path: Assets/Scripts/UIFramework/BasePanel.cs
+  artifactKey: Guid(4f2d2f581ccaa2243b2f4b3d5a95e857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/BasePanel.cs using Guid(4f2d2f581ccaa2243b2f4b3d5a95e857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988e1848199b92dcd9979ed3306e0ecc') in 0.009634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.518380 seconds.
+  path: Assets/Scripts/UIFramework/Manager/PanelManager.cs
+  artifactKey: Guid(879b973814a73414eb590d07d931d731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Manager/PanelManager.cs using Guid(879b973814a73414eb590d07d931d731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d48ec5102b3a5a3b810685695ff3569') in 0.009050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.831942 seconds.
+  path: Assets/Scripts/Scene/SceneSystem.cs
+  artifactKey: Guid(866f17c75ebd8da47a290451499be24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Scene/SceneSystem.cs using Guid(866f17c75ebd8da47a290451499be24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7457846ca922a62f3b6b699826a0eec') in 0.010312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.897686 seconds.
+  path: Assets/Scripts/UIFramework/Panels/SettingsPanel.cs
+  artifactKey: Guid(d8293f84c025c064b90860d5b3531154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Panels/SettingsPanel.cs using Guid(d8293f84c025c064b90860d5b3531154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42274306280ec30d297d1172317eeba') in 0.009848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021121 seconds.
+  path: Assets/Scripts/UIFramework/Panels/StartPanel.cs
+  artifactKey: Guid(2ae4ea409298a4d41918fa24e033aa29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Panels/StartPanel.cs using Guid(2ae4ea409298a4d41918fa24e033aa29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282c1597ad65008a3dcaa138a6ea6a24') in 0.011262 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.022 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.8 MB.
+System memory in use after: 191.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 2.101800 ms (FindLiveObjects: 0.336500 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.666600 ms  DeleteObjects: 0.043700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 378.631435 seconds.
+  path: Assets/Scripts/UIFramework/Panels/SettingsPanel.cs
+  artifactKey: Guid(d8293f84c025c064b90860d5b3531154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Panels/SettingsPanel.cs using Guid(d8293f84c025c064b90860d5b3531154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b006d010db4d4a64064297fdd58e212') in 0.005594 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005260 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.9 MB.
+System memory in use after: 192.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 2.059200 ms (FindLiveObjects: 0.257000 ms CreateObjectMapping: 0.040500 ms MarkObjects: 1.721600 ms  DeleteObjects: 0.039300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001372 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.047 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.0 MB.
+System memory in use after: 192.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 4.144900 ms (FindLiveObjects: 1.256800 ms CreateObjectMapping: 0.090500 ms MarkObjects: 2.718800 ms  DeleteObjects: 0.075400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001270 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.1 MB.
+System memory in use after: 192.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 2.913700 ms (FindLiveObjects: 0.376900 ms CreateObjectMapping: 0.069900 ms MarkObjects: 2.413800 ms  DeleteObjects: 0.051200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.845313 seconds.
+  path: Assets/Scripts/UIFramework/BasePanel.cs
+  artifactKey: Guid(4f2d2f581ccaa2243b2f4b3d5a95e857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/BasePanel.cs using Guid(4f2d2f581ccaa2243b2f4b3d5a95e857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02157b7348f76bbbe7db92e4d2dfc889') in 0.005301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.304870 seconds.
+  path: Assets/Scripts/UIFramework/Manager/PanelManager.cs
+  artifactKey: Guid(879b973814a73414eb590d07d931d731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Manager/PanelManager.cs using Guid(879b973814a73414eb590d07d931d731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8212548cfa559c4d4ae4a1700b3dfb') in 0.002970 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001101 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.3 MB.
+System memory in use after: 192.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.907100 ms (FindLiveObjects: 0.307200 ms CreateObjectMapping: 0.050800 ms MarkObjects: 1.506600 ms  DeleteObjects: 0.040700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001046 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.4 MB.
+System memory in use after: 192.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 2.443600 ms (FindLiveObjects: 0.333300 ms CreateObjectMapping: 0.045300 ms MarkObjects: 2.027900 ms  DeleteObjects: 0.035900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001101 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.849 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.5 MB.
+System memory in use after: 192.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 2.062200 ms (FindLiveObjects: 0.369300 ms CreateObjectMapping: 0.062100 ms MarkObjects: 1.594700 ms  DeleteObjects: 0.035100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 652.743792 seconds.
+  path: Assets/Scripts/UIFramework/Manager/PanelManager.cs
+  artifactKey: Guid(879b973814a73414eb590d07d931d731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Manager/PanelManager.cs using Guid(879b973814a73414eb590d07d931d731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009d0cd9822a46f9adb4d621a21cceb6') in 0.005482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.602667 seconds.
+  path: Assets/Scenes/NewBehaviourScript.cs
+  artifactKey: Guid(b08bbf1f0c9a9024a94f571efab7d491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NewBehaviourScript.cs using Guid(b08bbf1f0c9a9024a94f571efab7d491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba02bc9073fcf11082bad9de21b7dfed') in 0.010414 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001072 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.5 MB.
+System memory in use after: 192.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 1.686100 ms (FindLiveObjects: 0.242000 ms CreateObjectMapping: 0.032100 ms MarkObjects: 1.376100 ms  DeleteObjects: 0.035100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.523381 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(2cd995be87b18204d8f19081c6bb15e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene1.unity using Guid(2cd995be87b18204d8f19081c6bb15e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fe5fa377aab3c1fd5e6555764302a7') in 0.020532 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001118 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.7 MB.
+System memory in use after: 192.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 1.906500 ms (FindLiveObjects: 0.285900 ms CreateObjectMapping: 0.044600 ms MarkObjects: 1.540000 ms  DeleteObjects: 0.034500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.951102 seconds.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104100172c61963135b107ae38b57086') in 0.009225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.113606 seconds.
+  path: Assets/Scripts/Scene/Scene1.cs
+  artifactKey: Guid(cf014a9deac838543bd22ec4bf7a94c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Scene/Scene1.cs using Guid(cf014a9deac838543bd22ec4bf7a94c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4651bfdc3c22f003388f9897150726d7') in 0.010334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 151.682440 seconds.
+  path: Assets/Scripts/UIFramework/Panels/SettingsPanel.cs
+  artifactKey: Guid(d8293f84c025c064b90860d5b3531154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Panels/SettingsPanel.cs using Guid(d8293f84c025c064b90860d5b3531154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4020e974a1c412a4a7795a7f5440f192') in 0.002703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018472 seconds.
+  path: Assets/Scripts/UIFramework/Panels/StartPanel.cs
+  artifactKey: Guid(2ae4ea409298a4d41918fa24e033aa29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIFramework/Panels/StartPanel.cs using Guid(2ae4ea409298a4d41918fa24e033aa29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a7f431900d7db92f3464ba81449d65') in 0.003927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.438228 seconds.
+  path: Assets/Scripts/GameRoot.cs
+  artifactKey: Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameRoot.cs using Guid(552147be6026e0946939b788dc2371d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc3efd798aebcd3db15db2d7a5d3e41') in 0.004975 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001084 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Oliver\Desktop\unity\Unity3D-Python-Communication-master\UIdesign\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.9 MB.
+System memory in use after: 192.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.896500 ms (FindLiveObjects: 0.401700 ms CreateObjectMapping: 0.053500 ms MarkObjects: 1.404200 ms  DeleteObjects: 0.035200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.609657 seconds.
+  path: Assets/Scripts/Scene/Scene1.cs
+  artifactKey: Guid(cf014a9deac838543bd22ec4bf7a94c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Scene/Scene1.cs using Guid(cf014a9deac838543bd22ec4bf7a94c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ca1b38b4a62fe8511097146dcde813') in 0.004259 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
